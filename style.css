@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #006999;
+    background-size: cover;
+}
+
+#form {
+    background-color: white;
+    margin-top: 50px !important;
+    margin-bottom:50px !important;
+    height: 680px;
+    color: rgb(51, 51, 51);
+    font-size: 17px;
+    border-radius: 15px;
+}
